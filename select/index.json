@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "無知のち私",
+  "base_artist": "TOGENASHI TOGEARI",
+  "createdAt": "2025-12-01T10:47:32.613113Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "無知のち私",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/pl_01_無知のち私_トゲナシトゲアリ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "無知のち私",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/pl_02_無知のち私_トゲナシトゲアリ.txt"
+    }
+  ]
+}
